@@ -1,0 +1,5 @@
+git+https://github.com/deepset-ai/haystack.git@main
+streamlit==1.17.0
+markdown
+st-annotated-text
+python-dotenv
